@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  grpc-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-28T17:51:36.330366482-06:00"
+    description: A Helm chart for a distributed GRPC application
+    digest: cbf7c568464194a36da6fb4578e8cd2db6895ca74eb98f06582eba4a4f45b202
+    name: grpc-app
+    type: application
+    urls:
+    - https://sindvero.github.io/distributed-grpc-app/grpc-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-28T17:51:36.329895055-06:00"
